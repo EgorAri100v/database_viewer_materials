@@ -24,5 +24,5 @@
 
 ### Пример работы программы
 
-![Окно материалов](!img/skreenshot_0.png)
-![Окно свойств](!img/skreenshot_1.png)
+![Окно материалов](img/skreenshot_0.png)
+![Окно свойств](img/skreenshot_1.png)
