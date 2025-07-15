@@ -20,4 +20,9 @@
 
 ### Модель данных
 
-![Схема базы данных](metals_visual.png)
+![Схема базы данных](img/metals_visual.png)
+
+### Пример работы программы
+
+![Окно материалов](!img/skreenshot_0.png)
+![Окно свойств](!img/skreenshot_1.png)
